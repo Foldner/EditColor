@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/copy.png</file>
+        <file>icons/winIcon.ico</file>
+    </qresource>
+</RCC>
